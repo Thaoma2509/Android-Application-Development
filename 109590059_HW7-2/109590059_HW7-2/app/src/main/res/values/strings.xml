@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">109590059_HW7-2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Healthy Summer</string>
+    <string name="second_fragment_label">Healthy Spring</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello Summer</string>
+    <string name="hello_second_fragment">Hello Spring. Arg: %1$s</string>
+</resources>
